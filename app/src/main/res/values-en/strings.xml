@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Card Game</string>
+    <string name="numero_jugadores">Number of Players (Max 20)</string>
+    <string name="numeroCartas">Number of Cards</string>
+    <string name="textoBotonJugar">Start playing</string>
+    <string name="texto_total">Total cards</string>
+    <string name="fin_juego">Game over</string>
+    <string name="ganador_juego">"The winner is player "</string>
+    <string name="aceptar">Ok</string>
+    <string name="reiniciar">Reset</string>
+    <string name="salir">Exit</string>
+    <string name="maximo">Limit of 20 players.</string>
+    <string name="cartas">Number of cards must be higher than the number of players.</string>
+    <string name="jugador">Player</string>
+</resources>

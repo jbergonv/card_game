@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Juego de Cartas</string>
+    <string name="numero_jugadores">Nº Jugadores (Máx 20)</string>
+    <string name="numeroCartas">Nº Cartas</string>
+    <string name="textoBotonJugar">Empezar a Jugar</string>
+    <string name="texto_total">Cartas totales</string>
+    <string name="fin_juego">Fin del juego</string>
+    <string name="ganador_juego">Ha ganado el jugador  </string>
+    <string name="aceptar">Aceptar</string>
+    <string name="reiniciar">Reiniciar</string>
+    <string name="salir">Salir</string>
+    <string name="maximo">Máximo 20 jugadores</string>
+    <string name="cartas">El número de cartas debe ser mayor al de jugadores.</string>
+    <string name="jugador">Jugador</string>
+</resources>
